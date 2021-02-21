@@ -1,6 +1,7 @@
 function sendSMS(number) {
     var trial = "+12159874772";
     var my_number = number
+    // tHIS AuthToken is not valid :p
 
     const accountSID = "AC1e2e019200dc1f1f2493c2cfc871919d";
     const authToken = "b1eb8ae454739aa0a76a178aa9a9348f";
